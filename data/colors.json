@@ -1,0 +1,1378 @@
+[
+  {
+    "id": "brown-09",
+    "name_cn": "血牙",
+    "name_en": "Blood Ivory",
+    "hex": "#E9D1B5",
+    "rgb": "233, 209, 181",
+    "cmyk": "0, 10, 22, 9",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+    {
+    "id": "brown-08",
+    "name_cn": "糙米",
+    "name_en": "Brown Rice",
+    "hex": "#DBCBA1",
+    "rgb": "219, 203, 161",
+    "cmyk": "0, 7, 26, 14",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-10",
+    "name_cn": "露褐",
+    "name_en": "Dew Brown",
+    "hex": "#D2AE94",
+    "rgb": "210, 174, 148",
+    "cmyk": "0, 17, 30, 18",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-11",
+    "name_cn": "驼茸",
+    "name_en": "Camel Antler",
+    "hex": "#9E725A",
+    "rgb": "158, 114, 90",
+    "cmyk": "0, 28, 43, 38",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-07",
+    "name_cn": "茶绿褐",
+    "name_en": "Tea Olive Brown",
+    "hex": "#8E8570",
+    "rgb": "142, 133, 112",
+    "cmyk": "0, 6, 21, 44",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+    {
+    "id": "brown-06",
+    "name_cn": "流黄",
+    "name_en": "Earthy Ochre",
+    "hex": "#8B7040",
+    "rgb": "139, 112, 64",
+    "cmyk": "0, 19, 54, 45",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+    {
+    "id": "brown-05",
+    "name_cn": "茶色",
+    "name_en": "Tea",
+    "hex": "#765A35",
+    "rgb": "118, 90, 53",
+    "cmyk": "0, 24, 55, 54",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-12",
+    "name_cn": "紫砂",
+    "name_en": "Zisha Clay",
+    "hex": "#7C4622",
+    "rgb": "124, 70, 34",
+    "cmyk": "0, 44, 73, 51",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-03",
+    "name_cn": "茶褐",
+    "name_en": "Deep Tea",
+    "hex": "#5D3D21",
+    "rgb": "93, 61, 33",
+    "cmyk": "0, 34, 65, 64",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-04",
+    "name_cn": "古铜绿",
+    "name_en": "Antique Bronze",
+    "hex": "#533C1B",
+    "rgb": "83, 60, 27",
+    "cmyk": "0, 28, 67, 67",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+  {
+    "id": "brown-02",
+    "name_cn": "枣褐",
+    "name_en": "Jujube Brown",
+    "hex": "#552E1E",
+    "rgb": "85, 46, 30",
+    "cmyk": "0, 46, 65, 67",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+    {
+    "id": "brown-01",
+    "name_cn": "栗壳",
+    "name_en": "Chestnut Shell",
+    "hex": "#50200A",
+    "rgb": "80, 32, 10",
+    "cmyk": "0, 60, 88, 69",
+    "family": "brown",
+    "family_cn": "褐色系"
+  },
+
+  {
+    "id": "black-05",
+    "name_cn": "沙石",
+    "name_en": "Sandstone",
+    "hex": "#69635D",
+    "rgb": "105, 99, 93",
+    "cmyk": "0, 6, 11, 59",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-07",
+    "name_cn": "黪墨",
+    "name_en": "Dim Black",
+    "hex": "#625D6B",
+    "rgb": "98, 93, 107",
+    "cmyk": "8, 13, 0, 58",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-06",
+    "name_cn": "铁色",
+    "name_en": "Iron",
+    "hex": "#595861",
+    "rgb": "89, 88, 97",
+    "cmyk": "8, 9, 0, 62",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-04",
+    "name_cn": "油烟墨",
+    "name_en": "Oil Smoke Black",
+    "hex": "#3F3F3C",
+    "rgb": "63, 63, 60",
+    "cmyk": "0, 0, 5, 75",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-03",
+    "name_cn": "朱墨",
+    "name_en": "Vermilion Black",
+    "hex": "#2D2D30",
+    "rgb": "45, 45, 48",
+    "cmyk": "6, 6, 0, 81",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+    {
+    "id": "black-02",
+    "name_cn": "袀玄",
+    "name_en": "Black Cloth",
+    "hex": "#262729",
+    "rgb": "38, 39, 41",
+    "cmyk": "7, 5, 0, 84",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-01",
+    "name_cn": "元青",
+    "name_en": "Deep Indigo",
+    "hex": "#28292B",
+    "rgb": "40, 41, 43",
+    "cmyk": "7, 5, 0, 83",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-08",
+    "name_cn": "鹰背",
+    "name_en": "Feathers on the Back of An Eagle",
+    "hex": "#39363F",
+    "rgb": "57, 54, 63",
+    "cmyk": "10, 14, 0, 75",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-09",
+    "name_cn": "暗龙胆紫",
+    "name_en": "Dark Gentian Purple",
+    "hex": "#22202E",
+    "rgb": "34, 32, 46",
+    "cmyk": "26, 30, 0, 82",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-10",
+    "name_cn": "墨紫",
+    "name_en": "Ink Purple",
+    "hex": "#281D2C",
+    "rgb": "40, 29, 44",
+    "cmyk": "9, 34, 0, 83",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-11",
+    "name_cn": "燕尾青",
+    "name_en": "Swallowtail",
+    "hex": "#131423",
+    "rgb": "19, 20, 35",
+    "cmyk": "46, 43, 0, 86",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "black-12",
+    "name_cn": "铁棕",
+    "name_en": "Iron Brown",
+    "hex": "#1A0404",
+    "rgb": "26, 4, 4",
+    "cmyk": "0, 85, 85, 90",
+    "family": "black",
+    "family_cn": "黑色系"
+  },
+  {
+    "id": "white-01",
+    "name_cn": "乳白",
+    "name_en": "Milk White",
+    "hex": "#FFFEF3",
+    "rgb": "255, 254, 243",
+    "cmyk": "0, 0, 5, 0",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-02",
+    "name_cn": "东方亮",
+    "name_en": "Oriental Bright",
+    "hex": "#F5FBFE",
+    "rgb": "245, 251, 254",
+    "cmyk": "4, 1, 0, 0",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-03",
+    "name_cn": "银白",
+    "name_en": "Silver White",
+    "hex": "#EFF0F1",
+    "rgb": "239, 240, 241",
+    "cmyk": "1, 0, 0, 5",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-04",
+    "name_cn": "汉白玉",
+    "name_en": "White Marble",
+    "hex": "#F8F4ED",
+    "rgb": "248, 244, 237",
+    "cmyk": "0, 2, 4, 3",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-05",
+    "name_cn": "荷花白",
+    "name_en": "Lotus White",
+    "hex": "#FBECDE",
+    "rgb": "251, 236, 222",
+    "cmyk": "0, 6, 12, 2",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-06",
+    "name_cn": "荔肉白",
+    "name_en": "Lychee White",
+    "hex": "#F2E6CE",
+    "rgb": "242, 230, 206",
+    "cmyk": "0, 5, 15, 5",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-07",
+    "name_cn": "象牙",
+    "name_en": "Ivory",
+    "hex": "#EEEADC",
+    "rgb": "238, 234, 220",
+    "cmyk": "0, 2, 8, 7",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-08",
+    "name_cn": "缟素",
+    "name_en": "White Silk",
+    "hex": "#E6E6DC",
+    "rgb": "230, 230, 220",
+    "cmyk": "0, 0, 4, 10",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+
+    {
+    "id": "white-09",
+    "name_cn": "荻色",
+    "name_en": "Reed White",
+    "hex": "#DFE5E8",
+    "rgb": "223, 229, 232",
+    "cmyk": "4, 1, 0, 9",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-10",
+    "name_cn": "鱼肚白",
+    "name_en": "Fish Belly White",
+    "hex": "#C8D0D3",
+    "rgb": "200, 208, 211",
+    "cmyk": "5, 1, 0, 17",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+  {
+    "id": "white-11",
+    "name_cn": "葭灰",
+    "name_en": "Reed Gray",
+    "hex": "#D3D4D3",
+    "rgb": "211, 212, 211",
+    "cmyk": "0, 0, 0, 17",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+    {
+    "id": "white-12",
+    "name_cn": "菊蕾白",
+    "name_en": "Chrysanthemum Bud White",
+    "hex": "#E9DDB6",
+    "rgb": "233, 221, 182",
+    "cmyk": "0, 5, 22, 9",
+    "family": "white",
+    "family_cn": "白色系"
+  },
+{
+    "id": "yellow-01",
+    "name_cn": "杏仁黄",
+    "name_en": "Almond",
+    "hex": "#F7E8AA",
+    "rgb": "247, 232, 170",
+    "cmyk": "0, 6, 31, 3",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+  {
+    "id": "yellow-02",
+    "name_cn": "茉莉黄",
+    "name_en": "Jasmine",
+    "hex": "#F8DF72",
+    "rgb": "248, 223, 114",
+    "cmyk": "0, 10, 54, 3",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+  {
+    "id": "yellow-03",
+    "name_cn": "油菜花黄",
+    "name_en": "Rapeseed",
+    "hex": "#FBDA41",
+    "rgb": "251, 218, 65",
+    "cmyk": "0, 13, 74, 2",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+  {
+    "id": "yellow-04",
+    "name_cn": "柠檬黄",
+    "name_en": "Lemon",
+    "hex": "#FCD337",
+    "rgb": "252, 211, 55",
+    "cmyk": "0, 16, 78, 1",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+    {
+    "id": "yellow-05",
+    "name_cn": "柑黄",
+    "name_en": "Tangerine",
+    "hex": "#F4CF39",
+    "rgb": "244, 207, 57",
+    "cmyk": "0, 15, 77, 4",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+    {
+    "id": "yellow-06",
+    "name_cn": "明黄",
+    "name_en": "Bright Yellow",
+    "hex": "#FCC800",
+    "rgb": "252, 200, 0",
+    "cmyk": "0, 21, 100, 1",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+  {
+    "id": "yellow-07",
+    "name_cn": "雌黄",
+    "name_en": "Orpiment",
+    "hex": "#EAC21D",
+    "rgb": "234, 194, 29",
+    "cmyk": "0, 17, 88, 8",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+  {
+    "id": "yellow-08",
+    "name_cn": "藤黄",
+    "name_en": "Gamboge",
+    "hex": "#E9BA20",
+    "rgb": "233, 186, 32",
+    "cmyk": "0, 20, 86, 9",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+      {
+    "id": "yellow-09",
+    "name_cn": "金黄",
+    "name_en": "Golden Yellow",
+    "hex": "#D3A117",
+    "rgb": "211, 161, 23",
+    "cmyk": "0, 24, 89, 17",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+    {
+    "id": "yellow-10",
+    "name_cn": "香色",
+    "name_en": "Warm Clove Brown",
+    "hex": "#B69833",
+    "rgb": "182, 152, 51",
+    "cmyk": "0, 16, 72, 29",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+
+  {
+    "id": "yellow-11",
+    "name_cn": "桂黄",
+    "name_en": "Osmanthus",
+    "hex": "#EDA01F",
+    "rgb": "237, 160, 31",
+    "cmyk": "0, 32, 87, 7",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+
+  {
+    "id": "yellow-12",
+    "name_cn": "雄黄",
+    "name_en": "Realgar",
+    "hex": "#F3993A",
+    "rgb": "243, 153, 58",
+    "cmyk": "0, 37, 76, 5",
+    "family": "yellow",
+    "family_cn": "黄色系"
+  },
+  {
+    "id": "orange-01",
+    "name_cn": "蛋壳黄",
+    "name_en": "Eggshell",
+    "hex": "#F8C387",
+    "rgb": "248, 195, 135",
+    "cmyk": "0, 21, 46, 3",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-02",
+    "name_cn": "玫瑰粉",
+    "name_en": "Rose",
+    "hex": "#F8B37F",
+    "rgb": "248, 179, 127",
+    "cmyk": "0, 28, 49, 3",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-03",
+    "name_cn": "野蔷薇红",
+    "name_en": "Wild Rose",
+    "hex": "#FB9968",
+    "rgb": "251, 153, 104",
+    "cmyk": "0, 39, 59, 2",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-04",
+    "name_cn": "晨曦红",
+    "name_en": "Dawn",
+    "hex": "#EA8958",
+    "rgb": "234, 137, 88",
+    "cmyk": "0, 41, 62, 8",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-05",
+    "name_cn": "菠萝红",
+    "name_en": "Pineapple Red",
+    "hex": "#FC7930",
+    "rgb": "252, 121, 48",
+    "cmyk": "0, 52, 81, 1",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-08",
+    "name_cn": "美人焦橙",
+    "name_en": "Burnt Orange",
+    "hex": "#FA7E23",
+    "rgb": "250, 126, 35",
+    "cmyk": "0, 50, 86, 2",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-07",
+    "name_cn": "金红",
+    "name_en": "Golden Red",
+    "hex": "#EE781F",
+    "rgb": "238, 120, 31",
+    "cmyk": "0, 50, 87, 7",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-06",
+    "name_cn": "金莲花橙",
+    "name_en": "Nasturtium",
+    "hex": "#F86B1D",
+    "rgb": "248, 107, 29",
+    "cmyk": "0, 57, 88, 3",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-09",
+    "name_cn": "鹿皮褐",
+    "name_en": "Deerskin",
+    "hex": "#D99156",
+    "rgb": "217, 145, 86",
+    "cmyk": "0, 33, 60, 15",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-10",
+    "name_cn": "醉瓜肉",
+    "name_en": "Ripe Melon",
+    "hex": "#DB8540",
+    "rgb": "219, 133, 64",
+    "cmyk": "0, 39, 71, 14",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-11",
+    "name_cn": "余烬红",
+    "name_en": "Ember Red",
+    "hex": "#CF7543",
+    "rgb": "207, 117, 67",
+    "cmyk": "0, 43, 68, 19",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-12",
+    "name_cn": "火砖红",
+    "name_en": "Brick Red",
+    "hex": "#CD6227",
+    "rgb": "205, 98, 39",
+    "cmyk": "0, 52, 81, 20",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "orange-13",
+    "name_cn": "橘红",
+    "name_en": "Tangerine Red",
+    "hex": "#BB5A33",
+    "rgb": "187, 90, 51",
+    "cmyk": "0, 52, 73, 27",
+    "family": "orange",
+    "family_cn": "橙色系"
+  },
+  {
+    "id": "red-01",
+    "name_cn": "抹红",
+    "name_en": "Soft Red",
+    "hex": "#DE694C",
+    "rgb": "222, 105, 76",
+    "cmyk": "0, 53, 66, 13",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-02",
+    "name_cn": "骍衣",
+    "name_en": "Red Cloths",
+    "hex": "#EA5532",
+    "rgb": "234, 85, 50",
+    "cmyk": "0, 64, 79, 8",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-03",
+    "name_cn": "朱膘",
+    "name_en": "Light Vermilion",
+    "hex": "#E94721",
+    "rgb": "233, 71, 33",
+    "cmyk": "0, 70, 86, 9",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-04",
+    "name_cn": "丹色",
+    "name_en": "Vermilion",
+    "hex": "#D64241",
+    "rgb": "214, 66, 65",
+    "cmyk": "0, 69, 70, 16",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+
+  {
+    "id": "red-05",
+    "name_cn": "丹枫",
+    "name_en": "Maple",
+    "hex": "#D81918",
+    "rgb": "216, 25, 24",
+    "cmyk": "0, 88, 89, 15",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-06",
+    "name_cn": "朱砂",
+    "name_en": "Cinnabar",
+    "hex": "#D80835",
+    "rgb": "216, 8, 53",
+    "cmyk": "0, 96, 75, 15",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-07",
+    "name_cn": "娇红",
+    "name_en": "Delicate Red",
+    "hex": "#D1254F",
+    "rgb": "209, 37, 79",
+    "cmyk": "0, 82, 62, 18",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-08",
+    "name_cn": "双红",
+    "name_en": "Double Red",
+    "hex": "#C02A45",
+    "rgb": "192, 42, 69",
+    "cmyk": "0, 78, 64, 25",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-09",
+    "name_cn": "胭脂",
+    "name_en": "Rouge",
+    "hex": "#B32142",
+    "rgb": "179, 33, 66",
+    "cmyk": "0, 82, 63, 30",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-10",
+    "name_cn": "枣红",
+    "name_en": "Jujube Red",
+    "hex": "#8A2623",
+    "rgb": "138, 38, 35",
+    "cmyk": "0, 72, 75, 46",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-11",
+    "name_cn": "烟红",
+    "name_en": "Smoke Red",
+    "hex": "#902E22",
+    "rgb": "144, 46, 34",
+    "cmyk": "0, 68, 76, 44",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-12",
+    "name_cn": "荔色",
+    "name_en": "Lychee Red",
+    "hex": "#89262C",
+    "rgb": "137, 38, 44",
+    "cmyk": "0, 72, 68, 46",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+  {
+    "id": "red-13",
+    "name_cn": "燃红",
+    "name_en": "Burning Red",
+    "hex": "#5D181A",
+    "rgb": "93, 24, 26",
+    "cmyk": "0, 74, 72, 64",
+    "family": "red",
+    "family_cn": "红色系"
+  },
+   {
+    "id": "pink-11",
+    "name_cn": "胭脂雪",
+    "name_en": "Rouge Snow",
+    "hex": "#F1DEEC",
+    "rgb": "241, 222, 236",
+    "cmyk": "0, 8, 2, 5",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-10",
+    "name_cn": "杏花",
+    "name_en": "Apricot Blossom",
+    "hex": "#FADCE9",
+    "rgb": "250, 220, 233",
+    "cmyk": "0, 12, 7, 2",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-09",
+    "name_cn": "姜红",
+    "name_en": "Ginger Red",
+    "hex": "#EEB8C3",
+    "rgb": "238, 184, 195",
+    "cmyk": "0, 23, 18, 7",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-08",
+    "name_cn": "肉红",
+    "name_en": "Flesh Pink",
+    "hex": "#E5B7B7",
+    "rgb": "229, 183, 183",
+    "cmyk": "0, 20, 20, 10",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-07",
+    "name_cn": "芍药耕红",
+    "name_en": "Peony Pink",
+    "hex": "#EBA0B3",
+    "rgb": "235, 160, 179",
+    "cmyk": "0, 32, 24, 8",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-06",
+    "name_cn": "桃红",
+    "name_en": "Hot Pink",
+    "hex": "#F091A1",
+    "rgb": "240, 145, 161",
+    "cmyk": "0, 40, 33, 6",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-05",
+    "name_cn": "霞光红",
+    "name_en": "Rosy Glow",
+    "hex": "#EF82A0",
+    "rgb": "239, 130, 160",
+    "cmyk": "0, 46, 33, 6",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-04",
+    "name_cn": "莲瓣红",
+    "name_en": "Lotus Petal Red",
+    "hex": "#EA517F",
+    "rgb": "234, 81, 127",
+    "cmyk": "0, 65, 46, 8",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-03",
+    "name_cn": "丹紫红",
+    "name_en": "Purplish Red",
+    "hex": "#D2568C",
+    "rgb": "210, 86, 140",
+    "cmyk": "0, 59, 33, 18",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-02",
+    "name_cn": "莲红",
+    "name_en": "Lotus Red",
+    "hex": "#C1527F",
+    "rgb": "193, 82, 127",
+    "cmyk": "0, 57, 34, 24",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "pink-01",
+    "name_cn": "洋葱紫",
+    "name_en": "Onion Purple",
+    "hex": "#A8456B",
+    "rgb": "168, 69, 107",
+    "cmyk": "0, 59, 36, 34",
+    "family": "pink",
+    "family_cn": "粉色系"
+  },
+  {
+    "id": "purple-09",
+    "name_cn": "淡牵牛紫",
+    "name_en": "Pale Morning Glory",
+    "hex": "#D1C2D3",
+    "rgb": "209, 194, 211",
+    "cmyk": "1, 8, 0, 17",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-10",
+    "name_cn": "凤信紫",
+    "name_en": "Hyacinth Purple",
+    "hex": "#C8ADC4",
+    "rgb": "200, 173, 196",
+    "cmyk": "0, 14, 2, 22",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-11",
+    "name_cn": "萝兰紫",
+    "name_en": "Violet",
+    "hex": "#C08EAF",
+    "rgb": "192, 142, 175",
+    "cmyk": "0, 26, 9, 25",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-12",
+    "name_cn": "豆蔻紫",
+    "name_en": "Cardamom Purple",
+    "hex": "#AD6598",
+    "rgb": "173, 101, 152",
+    "cmyk": "0, 42, 12, 32",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-08",
+    "name_cn": "雪青",
+    "name_en": "Lilace",
+    "hex": "#A59ACA",
+    "rgb": "165, 154, 202",
+    "cmyk": "18, 24, 0, 21",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-07",
+    "name_cn": "藤萝紫",
+    "name_en": "Wisteria",
+    "hex": "#8076A3",
+    "rgb": "128, 118, 163",
+    "cmyk": "21, 28, 0, 36",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-06",
+    "name_cn": "槿紫",
+    "name_en": "Purple Hibiscus",
+    "hex": "#806D9E",
+    "rgb": "128, 109, 158",
+    "cmyk": "19, 31, 0, 38",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-05",
+    "name_cn": "蕈紫",
+    "name_en": "Fungi Purple",
+    "hex": "#815C94",
+    "rgb": "129, 92, 148",
+    "cmyk": "13, 38, 0, 42",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-04",
+    "name_cn": "桔梗紫",
+    "name_en": "Platycodon Purple",
+    "hex": "#813C85",
+    "rgb": "129, 60, 133",
+    "cmyk": "3, 55, 0, 48",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+    {
+    "id": "purple-01",
+    "name_cn": "真紫",
+    "name_en": "True Purple",
+    "hex": "#652A41",
+    "rgb": "101, 42, 65",
+    "cmyk": "0, 58, 36, 60",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-02",
+    "name_cn": "紫罗兰",
+    "name_en": "Violet",
+    "hex": "#5F479A",
+    "rgb": "95, 71, 154",
+    "cmyk": "38, 54, 0, 40",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  {
+    "id": "purple-03",
+    "name_cn": "满天星紫",
+    "name_en": "Baby's Breath Purple",
+    "hex": "#2E3171",
+    "rgb": "46, 49, 113",
+    "cmyk": "59, 57, 0, 56",
+    "family": "purple",
+    "family_cn": "紫色系"
+  },
+  
+  {
+    "id": "blue-01",
+    "name_cn": "远天蓝",
+    "name_en": "Distant Sky Blue",
+    "hex": "#D0DFE6",
+    "rgb": "208, 223, 230",
+    "cmyk": "10, 3, 0, 10",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-02",
+    "name_cn": "云水蓝",
+    "name_en": "Aqua Blue",
+    "hex": "#BACCD9",
+    "rgb": "186, 204, 217",
+    "cmyk": "14, 6, 0, 15",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-03",
+    "name_cn": "晴山蓝",
+    "name_en": "Clear Mountain Blue",
+    "hex": "#8FB2C9",
+    "rgb": "143, 178, 201",
+    "cmyk": "29, 11, 0, 21",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-04",
+    "name_cn": "秋波蓝",
+    "name_en": "Autumn Ripple Blue",
+    "hex": "#8ABCD1",
+    "rgb": "138, 188, 209",
+    "cmyk": "34, 10, 0, 18",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+    {
+    "id": "blue-05",
+    "name_cn": "涧石蓝",
+    "name_en": "Stream Stone Blue",
+    "hex": "#66A9C9",
+    "rgb": "102, 169, 201",
+    "cmyk": "49, 16, 0, 21",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-06",
+    "name_cn": "晴蓝",
+    "name_en": "Clear Blue",
+    "hex": "#5698C3",
+    "rgb": "86, 152, 195",
+    "cmyk": "56, 22, 0, 24",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+    {
+    "id": "blue-08",
+    "name_cn": "景泰蓝",
+    "name_en": "Cloisonné",
+    "hex": "#2775B6",
+    "rgb": "39, 117, 182",
+    "cmyk": "79, 36, 0, 29",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+
+  {
+    "id": "blue-07",
+    "name_cn": "宝石蓝",
+    "name_en": "Sapphire",
+    "hex": "#2486B9",
+    "rgb": "36, 134, 185",
+    "cmyk": "81, 28, 0, 27",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-09",
+    "name_cn": "天蓝",
+    "name_en": "Sky Blue",
+    "hex": "#1677B3",
+    "rgb": "22, 119, 179",
+    "cmyk": "88, 34, 0, 30",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+    {
+    "id": "blue-10",
+    "name_cn": "二青",
+    "name_en": "Erqing Blue",
+    "hex": "#1E50A2",
+    "rgb": "30, 80, 162",
+    "cmyk": "82, 51, 0, 36",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-11",
+    "name_cn": "品蓝",
+    "name_en": "Royal Blue",
+    "hex": "#003D74",
+    "rgb": "0, 61, 116",
+    "cmyk": "100, 47, 0, 55",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-12",
+    "name_cn": "真青",
+    "name_en": "Deep Blue",
+    "hex": "#192841",
+    "rgb": "25, 40, 65",
+    "cmyk": "62, 38, 0, 75",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+  {
+    "id": "blue-13",
+    "name_cn": "海青",
+    "name_en": "Sea Deep Blue",
+    "hex": "#080F4C",
+    "rgb": "8, 15, 76",
+    "cmyk": "89, 80, 0, 70",
+    "family": "blue",
+    "family_cn": "蓝色系"
+  },
+
+  {
+    "id": "cyan-01",
+    "name_cn": "蛋青",
+    "name_en": "Egg White",
+    "hex": "#C3D9D6",
+    "rgb": "195, 217, 214",
+    "cmyk": "10, 0, 1, 15",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-02",
+    "name_cn": "天青",
+    "name_en": "Azure",
+    "hex": "#C6D7DB",
+    "rgb": "198, 215, 219",
+    "cmyk": "10, 2, 0, 14",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-03",
+    "name_cn": "海天蓝",
+    "name_en": "Sea Sky Blue",
+    "hex": "#C6E6E8",
+    "rgb": "198, 230, 232",
+    "cmyk": "15, 1, 0, 9",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-04",
+    "name_cn": "清水蓝",
+    "name_en": "Clear Water Blue",
+    "hex": "#93D5DC",
+    "rgb": "147, 213, 220",
+    "cmyk": "33, 3, 0, 14",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+     {
+    "id": "cyan-05",
+    "name_cn": "松石",
+    "name_en": "Turquoise",
+    "hex": "#75C1C4",
+    "rgb": "117, 193, 196",
+    "cmyk": "40, 2, 0, 23",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-06",
+    "name_cn": "瀑布蓝",
+    "name_en": "Waterfall Blue",
+    "hex": "#51C4D3",
+    "rgb": "81, 196, 211",
+    "cmyk": "62, 7, 0, 17",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-07",
+    "name_cn": "雾青",
+    "name_en": "Mist Green",
+    "hex": "#63BBD0",
+    "rgb": "99, 187, 208",
+    "cmyk": "52, 10, 0, 18",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+    {
+    "id": "cyan-08",
+    "name_cn": "碧青",
+    "name_en": "Jade Green",
+    "hex": "#5CB3CC",
+    "rgb": "92, 179, 204",
+    "cmyk": "55, 12, 0, 20",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-09",
+    "name_cn": "甸子蓝",
+    "name_en": "Turquoise Blue",
+    "hex": "#10AEC2",
+    "rgb": "16, 174, 194",
+    "cmyk": "92, 10, 0, 24",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-10",
+    "name_cn": "胆矾蓝",
+    "name_en": "Chalcanthite Blue",
+    "hex": "#0F95B0",
+    "rgb": "15, 149, 176",
+    "cmyk": "91, 15, 0, 31",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+  {
+    "id": "cyan-11",
+    "name_cn": "鱼师青",
+    "name_en": "Fish Green",
+    "hex": "#32788A",
+    "rgb": "50, 120, 138",
+    "cmyk": "64, 13, 0, 46",
+    "family": "cyan",
+    "family_cn": "青色系"
+  },
+   { "id": "cyan-12", 
+    "name_cn": "翠蓝", 
+    "name_en": "Emerald Blue",
+    "hex": "#41888A", 
+    "rgb": "65, 136, 138", 
+    "cmyk": "53, 1, 0, 46", 
+    "family": "cyan", 
+    "family_cn": "青色系" 
+  },
+  {
+    "id": "green-04",
+    "name_cn": "嘉陵水绿",
+    "name_en": "Jialing River Green",
+    "hex": "#ADD5A2",
+    "rgb": "173, 213, 162",
+    "cmyk": "19, 0, 24, 16",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-07",
+    "name_cn": "梅子青",
+    "name_en": "Plum Green",
+    "hex": "#A8BD72",
+    "rgb": "168, 189, 114",
+    "cmyk": "11, 0, 40, 26",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-06",
+    "name_cn": "艾绿",
+    "name_en": "Mugwort Green",
+    "hex": "#9DAA6C",
+    "rgb": "157, 170, 108",
+    "cmyk": "8, 0, 36, 33",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-05",
+    "name_cn": "豆绿",
+    "name_en": "Bean Green",
+    "hex": "#91AE84",
+    "rgb": "145, 174, 132",
+    "cmyk": "17, 0, 24, 32",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+      {
+    "id": "green-08",
+    "name_cn": "苹果",
+    "name_en": "Green Apple",
+    "hex": "#A0BF52",
+    "rgb": "160, 191, 82",
+    "cmyk": "17, 0, 57, 25",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  { "id": "green-09", 
+    "name_cn": "笋绿", 
+    "name_en": "Bamboo Shoot", 
+    "hex": "#84A740", 
+    "rgb": "132, 167, 64", 
+    "cmyk": "21, 0, 62, 35", 
+    "family": "green", 
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-10",
+    "name_cn": "秋葵",
+    "name_en": "Okra Green",
+    "hex": "#6B8C32",
+    "rgb": "107, 140, 50",
+    "cmyk": "24, 0, 64, 45",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-11",
+    "name_cn": "京绿",
+    "name_en": "Jing Green",
+    "hex": "#468C37",
+    "rgb": "70, 140, 55",
+    "cmyk": "50, 0, 61, 45",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-12",
+    "name_cn": "秧色",
+    "name_en": "Seedling Green",
+    "hex": "#507936",
+    "rgb": "80, 121, 54",
+    "cmyk": "34, 0, 55, 53",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-13",
+    "name_cn": "松绿",
+    "name_en": "Pine Green",
+    "hex": "#3D6036",
+    "rgb": "61, 96, 54",
+    "cmyk": "36, 0, 44, 62",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-03",
+    "name_cn": "三绿",
+    "name_en": "San Green",
+    "hex": "#53976F",
+    "rgb": "83, 151, 111",
+    "cmyk": "45, 0, 26, 41",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-02",
+    "name_cn": "品绿",
+    "name_en": "Light Green",
+    "hex": "#1C8D6C",
+    "rgb": "28, 141, 108",
+    "cmyk": "80, 0, 23, 45",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-01",
+    "name_cn": "孔雀绿",
+    "name_en": "Peacock Green",
+    "hex": "#007D62",
+    "rgb": "0, 125, 98",
+    "cmyk": "100, 0, 22, 51",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-14",
+    "name_cn": "墨绿",
+    "name_en": "Ink Green",
+    "hex": "#1C2D25",
+    "rgb": "28, 45, 37",
+    "cmyk": "38, 0, 18, 82",
+    "family": "green",
+    "family_cn": "绿色系"
+  },
+  {
+    "id": "green-15",
+    "name_cn": "云杉绿",
+    "name_en": "Spruce Green",
+    "hex": "#15231B",
+    "rgb": "21, 35, 27",
+    "cmyk": "40, 0, 23, 86",
+    "family": "green",
+    "family_cn": "绿色系"
+  }
+]
